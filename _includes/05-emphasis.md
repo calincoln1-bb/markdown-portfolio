@@ -1,6 +1,6 @@
 # Skills I Do
 
- :tada: :tada: Below is a list of my *awesome* **abilities** and **skills** :tada: :tada:
+ Below is a list of my *awesome* **abilities** and **skills**
 
 ## Speaking Languages
 - English

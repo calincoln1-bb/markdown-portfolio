@@ -10,4 +10,4 @@
 
 ## Listening Languages
 - English
-- Other (I won't understand, but I will still listen :+1:)
+- Other (I won't understand, but I will still listen)

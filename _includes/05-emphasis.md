@@ -2,14 +2,6 @@
 
  :tada: :tada: Below is a list of my *awesome* **abilities** and **skills** :tada: :tada:
 
-## Programming Languages
-- Java
-- Javascript
-- C++
-- GDScript
-- C#
-- Python
-
 ## Speaking Languages
 - English
 
